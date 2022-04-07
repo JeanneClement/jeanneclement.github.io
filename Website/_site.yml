@@ -1,0 +1,23 @@
+# https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html
+name: "jeanneclement.github.io"
+output_dir: "_site"
+navbar:
+  title: "Jeanne Clément"
+  #type: inverse
+  left:
+    - text: "About"
+      href: About.html
+    - text: "Publications"
+      href: Publications.html
+    - text: "Software"
+      href: Software.html
+    - text: "CV"
+      href: CV.html
+      
+output:
+  bookdown::html_document2:
+    theme: flatly
+    # readable theme is also nice
+    number_sections: false
+    highlight: textmate
+    css: styles.css
