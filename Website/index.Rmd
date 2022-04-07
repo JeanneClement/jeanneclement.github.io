@@ -1,0 +1,5 @@
+---
+title: "Jeanne Clément"
+output: bookdown::gitbook
+site: bookdown::bookdown_site
+---
