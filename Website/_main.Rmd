@@ -1,0 +1,32 @@
+---
+title: "Jeanne Clément"
+output: bookdown::gitbook
+site: bookdown::bookdown_site
+---
+
+<!--chapter:end:index.Rmd-->
+
+---
+title: "About"
+---
+
+<!--chapter:end:About.Rmd-->
+
+---
+title: "CV"
+---
+
+<!--chapter:end:CV.Rmd-->
+
+---
+title: "Publications"
+---
+
+<!--chapter:end:Publications.Rmd-->
+
+---
+title: "Software"
+---
+
+<!--chapter:end:Software.Rmd-->
+
